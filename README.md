@@ -1,8 +1,8 @@
 # Avengers_Analysis
 
-### Análise do dataset sobre informações dos vingadores e suas participações no Universo Marvel das HQ's. Análise em Python e Dashboards e Visualização  utilizando Tableau Desktop.
+### Análise do dataset sobre informações dos vingadores e suas participações no Universo Marvel das HQ's. Esta análise foi realizada em Python e para os Dashboards e Visualizações foi utilizado o Tableau Desktop.
 
-Esta análise idenifica e tras uma visão de fã sobre as mortes de Vingadores por trás das histórias. Mas não tema! Se há uma coisa que os fãs de quadrinhos aprenderam nos últimos 50 anos de Avengers, é que a morte é passageira.
+Esta análise identifica e tras uma visão de fã sobre as mortes de Vingadores por trás das histórias. Mas não tema! Se há uma coisa que os fãs de quadrinhos aprenderam nos últimos 50 anos de Avengers, é que a morte é passageira.
 
 Se você se inscreveu na equipe dos Vingadores, não apenas obtém um seguro de saúde fantástico, mas também, presumivelmente, consegue amigos que mudam a realidade para lidar com qualquer problema do tipo eliminar prematuramente algum problema.
 
@@ -13,7 +13,7 @@ Seguindo os critéiros das HQ's um personagem é considerado morto se:
 
 * E seus aliados e amigos mais próximos acreditam sinceramente que eles estão mortos.
 
-O Dataset `avengers.csv` detalha as mortes de personagens de quadrinhos da Marvel entre o momento em que se juntaram aos Vingadores e 30 de abril de 2015, uma semana antes das Guerras Secretas # 1.
+O Dataset `avengers.csv`  foi obtido no site https://data.fivethirtyeight.com/ adapto para o português e detalha as mortes de personagens de quadrinhos da Marvel entre o momento em que se juntaram aos Vingadores e 30 de abril de 2015, uma semana antes das Guerras Secretas # 1.
 
 Header | Definition
 ---|---------
